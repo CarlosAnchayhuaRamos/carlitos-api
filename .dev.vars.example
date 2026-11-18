@@ -1,0 +1,6 @@
+FIRST_URL=https://first.example.invalid
+FIRST_API_VERSION=v1
+FIRST_AGENT_ID=example-agent
+FIRST_DOMAIN_ID=example-domain
+FIRST_CONFIGURATION_JWT_SECRET=replace-with-provider-secret
+SESSION_COOKIE_SECRET=replace-with-independent-random-secret-at-least-32-bytes
